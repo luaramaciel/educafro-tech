@@ -11,11 +11,10 @@ Saiba mais sobre a [EDUCAFRO TECH](https://educafrotech.educafro.org.br).
 
 Saiba mais sobre a [Educafro](https://www.educafro.org.br/bkp_site/conheca-educafro/).
 
-## Stacks utilizadas
+## Cursos Realizados
 
-**Web Design:** HTML, CSS, WordPress, JS
+**HARD SKILLS:** HTML, CSS, JS, WordPress, Python, Lógica de programação.
 
-**Back-end:** Python, lógica de programação
-
-**Soft-Skills:** Cidadania, consciência afro-brasileira, racismo algoritmico, comunicação Web-Ferramentas
+**SOFT SKILLS:** Cidadania, consciência afro-brasileira, racismo algoritmico, comunicação Web-Ferramentas
 para inclusão de acessibilidade, Saúde mental no Trabalho, racismo estrutural em suas diversas formas de manifestações.
+
