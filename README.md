@@ -13,7 +13,7 @@ Saiba mais sobre a [Educafro](https://www.educafro.org.br/bkp_site/conheca-educa
 
 ## Stacks utilizadas
 
-**Web Design:** HTML, CSS
+**Web Design:** HTML, CSS, WordPress, JS
 
 **Back-end:** Python, lógica de programação
 
