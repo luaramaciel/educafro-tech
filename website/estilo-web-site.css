@@ -1,0 +1,23 @@
+/* Estilizações Personalizadas */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+#home {
+    background: url('assets/banner.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#about h2, #contact h2 {
+    margin-bottom: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
